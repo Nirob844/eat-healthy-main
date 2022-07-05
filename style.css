@@ -19,7 +19,7 @@ color: coral;
 }
 .half-wight img{
     width: 90%;
-    height: auto;
+    height: auto
 }
 .buttom{
     background-color: coral;
@@ -56,4 +56,11 @@ color: coral;
     box-shadow: 10px 10px 40px gray;
     border: 2px solid white;
     border-radius: 20px;
+}
+#color{
+    background-color: black;
+    height: 250px;
+}
+.Eat-Fresh{
+    color: lightslategray;
 }
